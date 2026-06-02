@@ -13,7 +13,7 @@ export default function ContactForm() {
     const form = e.currentTarget
     const data = new FormData(form)
     try {
-      const res = await fetch('https://formsubmit.co/ajax/stayloomproperty@gmail.com', {
+      const res = await fetch('https://formsubmit.co/ajax/contact@stayloomproperty.com', {
         method: 'POST',
         headers: { Accept: 'application/json' },
         body: data,
@@ -171,7 +171,7 @@ export default function ContactForm() {
         )}
         {state === 'error' && (
           <p className="mt-4 font-jost text-sm text-red-700">
-            Something went wrong. Please email us directly at stayloomproperty@gmail.com.
+            Something went wrong. Please email us directly at contact@stayloomproperty.com.
           </p>
         )}
       </div>

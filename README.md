@@ -85,7 +85,7 @@ This runs `next build` then uses `gh-pages` to push the `out/` folder to the `gh
 
 ## Contact form
 
-The contact form uses [FormSubmit](https://formsubmit.co/) to send emails to `stayloomproperty@gmail.com` without any backend. No setup is required beyond the first form submission, which will ask you to confirm your email address.
+The contact form uses [FormSubmit](https://formsubmit.co/) to send emails to `contact@stayloomproperty.com` without any backend. No setup is required beyond the first form submission, which will ask you to confirm your email address.
 
 ## Tech stack
 

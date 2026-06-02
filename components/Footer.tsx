@@ -50,10 +50,10 @@ export default function Footer() {
                   Email
                 </p>
                 <a
-                  href="mailto:stayloomproperty@gmail.com"
+                  href="mailto:contact@stayloomproperty.com"
                   className="font-jost text-ivory/80 hover:text-ivory transition-colors break-all"
                 >
-                  stayloomproperty@gmail.com
+                  contact@stayloomproperty.com
                 </a>
               </div>
               <div>

@@ -16,8 +16,8 @@ const contactItems = [
   },
   {
     label: 'Email',
-    value: 'stayloomproperty@gmail.com',
-    href: 'mailto:stayloomproperty@gmail.com',
+    value: 'contact@stayloomproperty.com',
+    href: 'mailto:contact@stayloomproperty.com',
     note: 'We respond to all emails within 24 hours.',
   },
   {
